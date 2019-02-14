@@ -10,7 +10,7 @@ A small piece of python script to import gene graph from a file into the Neo4j d
 ```
 python neo4j_solution.py path/to/file.tsv
 ```
-See an example of the running tool (example)
+See an example of the running tool above (example.png)
 
 ## Contact
 For any questions or extending this piece of code, you are welcome to do or ask for help as well as reach me here :) :<br/>
