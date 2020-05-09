@@ -7,7 +7,7 @@ A small piece of python script to import gene graph from a file into the Neo4j d
 3- Find the shortest path between two desired nodes.<br/>
 
 ## Usage
-```sh
+```
 python neo4j_solution.py path/to/file.tsv
 ```
 See an example of the running tool above (example.png)
